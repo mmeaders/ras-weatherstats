@@ -1,0 +1,3 @@
+0 * * * * root python /home/pi/python/wu/getweatherstats.py
+30 * * * * root python /home/pi/python/wu/getweatherstats.py
+
